@@ -1,22 +1,22 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "YJY",
+    "url": "https://Notsob.github.io",
+    "title": "YJY de story",
     "description": "这是一个记录小姚同学生活的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客,梦想,生活",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
+    "name": "yjingyu",
     "twitterId": "@lxchapu",
     "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "姚敬宇",
+    "bio": "一个生于平凡而又不甘平凡的人",
+    "description": "Dream, Passion, Struggle.",
     "socials": [
       {
         "name": "Github",
@@ -37,7 +37,7 @@
         "color": "rgb(212, 70, 56)"
       }
     ],
-    "yiyan": "当第一颗卫星飞向大气层外，我们便以为自己终有一日会征服宇宙。"
+    "yiyan": "为天地立心，为生民立命，为往圣继绝学，为万世开太平。"
   },
   "color": {
     "accent": [
