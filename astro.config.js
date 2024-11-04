@@ -20,7 +20,7 @@ import swup from '@swup/astro'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Notsob.github.io',
+  site: 'https://notsob.github.io',
   integrations: [
     tailwind(),
     react(),
