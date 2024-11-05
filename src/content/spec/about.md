@@ -4,20 +4,20 @@ description: 这是一份站长的自述报告，请查收。
 comments: false
 ---
 
-## 关于 Gyoza
+## 关于 Blog
 
-Gyoza 是一个使用 Astro 和 React 开发的博客主题。Gyoza 借鉴了 [Shiro](https://github.com/innei/Shiro) 和一些网站的设计。
+这是一个个人记录生活，记录美好与不完美的地方，希望来访的每个人都能感到一丝喜欢。
 
-Gyoza 的核心理念是简洁，快速，可爱。
+小姚同学 的生活理想是一只猫，一只狗，一杯茶，睡一天。
 
-- 在 [Markdown 示例](/posts/markdown) 中展示了 Markdown 的渲染样式
-- 可以前往 [Gyoza 使用指南](/posts/guide) 了解 Gyoza 的使用方法
+- 在Blog中详细的展示了我这个Blog想要去做什么。
+- 希望我的生活能够一直充满激情和活跃。
 
-Gyoza 是开源的，如果你对这个项目感兴趣，欢迎前往 Gyoza 的 [Github 仓库](https://github.com/lxchapu/astro-gyoza) 来提 Issue 或者 PR。
+我现在的话，还没有很忙，希望每个对我Blog有意思或者其他的人，能够给我写 [邮件](mailto:1005858228@qq.com) 来进行思维的碰撞。
 
 ## 关于作者
 
-我是 lxchapu，是一名前端开发者，喜欢各种有趣的东西。欢迎访问我的个人网站 [www.lxchapu.com](https://www.lxchapu.com)，了解关于我更多的信息。
+我是 小姚同学，是一名在校研究生，喜欢各种有趣的东西。欢迎访问我的个人网站 [notsob.github.io](https://notsob.github.io)，了解关于我更多的信息。
 
 ## 致谢
 
