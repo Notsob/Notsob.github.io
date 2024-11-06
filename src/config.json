@@ -16,24 +16,31 @@
   "hero": {
     "name": "小姚同学",
     "bio": "一个生于平凡而又不甘平凡的人",
-    "description": "Dream, Passion, Struggle.",
+    "description": "Dream, Passion, Struggle, Faith.",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/notsob",
         "color": "rgb(24, 23, 23)"
       },
       {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "https://twitter.com/lxchapu",
+        "name": "知乎",
+        "icon": "icon-zhihu",
+        "url": "https://www.zhihu.com/people/mei-you-xian-de-tang-yuan-41",
         "color": "rgb(36, 46, 54)"
       },
       {
+        "name": "B站",
+        "icon": "icon-bilibili",
+        "url": "https://space.bilibili.com/456098352?spm_id_from=333.1007.0.0",
+        "color": "rgb(255, 77, 77)"
+      },
+
+      {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "1005858228@qq.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
